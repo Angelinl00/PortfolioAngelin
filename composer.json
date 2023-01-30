@@ -1,0 +1,15 @@
+{
+    "name": "asus/portfolio",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Portfolio\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angelin",
+            "email": "laourouangelinl008@gmail.com"
+        }
+    ],
+    "require": {}
+}
